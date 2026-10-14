@@ -1,0 +1,62 @@
+msgid "up"
+msgstr "[INDIETRO]"
+
+msgid "loading"
+msgstr "Caricamento..."
+
+msgid "back"
+msgstr "Indietro"
+
+msgid "total"
+msgstr "Totale: "
+
+msgid "free"
+msgstr "Disponibile: "
+
+msgid "byte"
+msgstr "bytes"
+
+msgid "kb"
+msgstr "Kb"
+
+msgid "mb"
+msgstr "Mb"
+
+msgid "gb"
+msgstr "Gb"
+
+msgid "folders"
+msgstr "Cartelle: "
+
+msgid "files"
+msgstr "File: "
+
+msgid "empty"
+msgstr "Vuoto"
+
+msgid "folder"
+msgstr "Cartella"
+
+msgid "file"
+msgstr "File"
+
+msgid "size"
+msgstr "Dimensione: "
+
+msgid "resolution"
+msgstr "Risoluzione: "
+
+msgid "prefix"
+msgstr "Prefisso"
+
+msgid "exit"
+msgstr "Esci"
+
+msgid "toobig"
+msgstr "Il file è troppo grande"
+
+msgid "file_error"
+msgstr "Errore nell'apertura del file"
+
+msgid "under_construction"
+msgstr "In preparazione..."

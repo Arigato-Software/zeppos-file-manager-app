@@ -47,7 +47,10 @@
     },
     "ru-RU": {
       "appName": "Файловый менеджер"
-    }
+    },
+	"it-IT": {
+		"appName": "Gestore file"
+	}
   },
   "defaultLanguage": "en-US"
 }
